@@ -16,14 +16,13 @@ My final milestone is the increased reliability and accuracy of my robot. I amel
 My final milestone is the increased reliability and accuracy of my robot. I ameliorated the sagging and fixed the reliability of the finger. As discussed in my second milestone, the arm sags because of weight. I put in a block of wood at the base to hold up the upper arm; this has reverberating positive effects throughout the arm. I also realized that the forearm was getting disconnected from the elbow servo’s horn because of the weight stress on the joint. Now, I make sure to constantly tighten the screws at that joint.
 
 [![Second Milestone]
-![MLK Familia](https://user-images.githubusercontent.com/108291620/176758758-929e52b3-f6d7-48a0-b4e0-ab482787cfec.jpg)
+
 {:target="_blank" rel="noopener"}
 
 # First Milestone
 My first milestone was setting up and hooking up the sensor and LED to the Arduino to ensurethat circut and sensor were performing well. I wrote a code that checked if there was motion within the sensors range and if so it would blink red. At first glance this test seems very rudimentary but I ran into many errors. One of these errors was that usually sensors come with three wires, one red, one black, one white and this was the case for the sensors that I recieved. The problem was that instead of the black wire being ground which is usually the case, the white wire was ground so it tooksome time to figure this our and adjust. Another issue I encountered duringthis first milestone wasone of the sensors did not work. I was able to deduct this by replacing the working sensor with the sensor that was not working onto the circuit that I knew was working. I plan to fix this issue by buying another sensor that will work. One potential problem that I have found while testing my working sensor is that the sensor does not detect fast movements or objects that well. I will further test the consistency of the PIR sensor when I get my second sensor. If the sensor continues to be inconsistent, I will instead use an ultra-sonic sensor. Although it picks up the movement of the object better, it does not constantly check it's range for movement.
 
 [![First Milestone]
-![Baby book](https://user-images.githubusercontent.com/108291620/176758708-08db36c7-6fff-48d1-b6c7-3bc36e4b37d2.jpg)
 {:target="_blank" rel="noopener"}
 
 # Starter Project - Useless Machine
