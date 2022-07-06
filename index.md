@@ -1,5 +1,5 @@
 ﻿# Hot Shot Hoops
-This will serve as a brief description of your project. Limit this to three sentences because it can become overly long at that point. This copy should draw the user in and make she/him want to read more.
+The idea of my project is I have two sensors that check if a basket is made that also tracks the amount of shots made. This is done with two ultrasonic sensors that are placed above and blow the hoop. When both sensors are trigggered within two seconds the shot is considered made. Once the shot has been made critical information like the shot count and the time the shot was made is placed into a spreadsheet and this repeats as long as the shooter wants.
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
