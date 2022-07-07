@@ -14,8 +14,9 @@ The idea of my project is I have two sensors that check if a basket is made that
 ![IMG-0626](https://user-images.githubusercontent.com/108291620/177650222-92a12154-5168-453d-8b46-8b6ba97360f2.jpg)
 My second milestone is changing the type of sensor and having full functionality with my machine which includes having the amount of shots made and the time it was made print out on a spread sheet. I changed my original code so that it worked with the new ultrasonic sensors but the fuctionality of it was exactly the same. The Ultrasonic sensor works by sending out a sound wave at a high frequency and having a reciever that recieves the sound wave reflected from another object which then can be turned into a signal to turn on a LED. One of the issues that I encountered was changing the code to adjust for the ultra sonic sensor. This required me to get more comfortable codinging in C which after a lot of work as was able to do. Another issue I encountered was that the mounts the I recieved were not very malleable so I had to find other ways to attach my sensor to the board in a way that sensed the greatest area possible. Overcoming the problem required a lot of perserverance as I had to do a lot of testing which often failed. In the end I was able to figure it out by learning from all my mistakes and failed attempts. One aspect of my project I look forward to improving is that there is a lot of delay from when the basket is made to when it is posted in the spreadsheet. 
 
-#Circuit design
+Circuit design
 ![Screenshot 2022-07-07 085603](https://user-images.githubusercontent.com/108291620/177824126-5e8cbd8e-5137-476f-9c76-7e0a15cbec36.jpg)
+
 *Reminder You have to do this twice!
 
 # First Milestone
@@ -24,8 +25,9 @@ My first milestone was setting up and hooking up the sensor and LED to the Ardui
 
 [![Hot Shot Hoops- First Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1656718885/video_to_markdown/images/youtube--6E5vMULIlls-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=6E5vMULIlls "Hot Shot Hoops- First Milestone")
 
-#Circuit Design
+Circuit Design
 ![Screenshot 2022-07-07 092344](https://user-images.githubusercontent.com/108291620/177824356-0cf5724d-f81c-47b4-a66e-f814ee45cc6e.jpg)
+
 * Reminder: Red is power, White is ground, Black is signal for this particular sensor.
 
 
