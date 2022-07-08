@@ -5,10 +5,8 @@ The idea of my project is I have two sensors that check if a basket is made that
 |:--:|:--:|:--:|:--:|
 | Cyrus W. | Lynbrook Highschool | Electrical Engineering | Rising Junior|
 
-![Headstone Image]![CyrusWongPhoto](https://user-images.githubusercontent.com/108291620/177587754-9b4d568a-f942-49f7-b79b-c4ee471c651d.jpg)
+[CyrusWongPhoto](https://user-images.githubusercontent.com/108291620/177587754-9b4d568a-f942-49f7-b79b-c4ee471c651d.jpg)
 
-
-[![Final Milestone]{:target="_blank" rel="noopener"}
 
 # Second Milestone
 ![IMG-0626](https://user-images.githubusercontent.com/108291620/177650222-92a12154-5168-453d-8b46-8b6ba97360f2.jpg)
@@ -43,8 +41,9 @@ Project resource list
 - 2 particle photons
 - 2 82 Ohm resistors
 - 2 generic Leds
-- 4 generic jumpper wires
+- Assorted generic jumpper wires
 
+* Beware in August Particle will no longer be compatible with IFTTT so you will have to find a workaround if you want to put the info on google sheets*
 
 
 
