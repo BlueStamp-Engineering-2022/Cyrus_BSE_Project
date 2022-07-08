@@ -32,6 +32,10 @@ Circuit Design
 
 * Reminder: Red is power, White is ground, Black is signal for this particular sensor.
 
+This project was based off another project that used pir sensors instead. 
+If you would like to view that here is the link to that: https://www.hackster.io/iot-basketball/hot-shot-hoops-539e3e
+* note if you want to use Ultrasonic sensor the code will be different then shown on their website
+
 
 
 # Starter Project - Useless Machine
