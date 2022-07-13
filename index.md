@@ -5,7 +5,7 @@ The idea of my project is I have two sensors that check if a basket is made that
 |:--:|:--:|:--:|:--:|
 | Cyrus W. | Lynbrook Highschool | Electrical Engineering | Rising Junior|
 
-[CyrusWongPhoto](https://user-images.githubusercontent.com/108291620/177587754-9b4d568a-f942-49f7-b79b-c4ee471c651d.jpg)
+![CyrusWongPhoto](https://user-images.githubusercontent.com/108291620/177587754-9b4d568a-f942-49f7-b79b-c4ee471c651d.jpg)
 
 
 # Second Milestone
